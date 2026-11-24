@@ -90,7 +90,7 @@ export default function Home() {
         />
         <button
           disabled={loading || !input.trim()}
-          className="rounded bg-black px-4 py-2 text-white disabled:opacity-50"
+          className="rounded bg-black px-4 py-2 text-white disabled:opacity-50 dark:bg-white dark:text-black"
         >
           Send
         </button>
