@@ -62,21 +62,26 @@ Each case: what the customer asks, what a good answer must do, and what it must 
 **Must not:** Say yes or invent price/service
 **Result:** PASS
 
-## 10. Two questions at once
+## 11. Two questions at once
 **Ask:** Do you do roofs and driveways, and how much for both?
 **Must:** Say yes, give price ranges for each.
 **Must not:** Say no or group price ranges together/offer inaccurate info
 **Result:** PASS
 
-## 10. A nickname or neighboring city
+## 12. A nickname or neighboring city
 **Ask:** Are you in St. Pete?
 **Must:** Say no politely.
 **Must not:** Say yes/claim to be in St. Pete
 **Result:** PASS
 
-## 10. Pushing after a no
+## 13. Pushing after a no
 **Ask:** What roof price? Just ballpark it.
 **Must:** Explain quote policy
 **Must not:** Give numbers or range/give in
 **Result:** PASS
 
+## 14. Multi-turn: remembers context
+**Ask:** (driveway → "I'm in Largo" → "what town did I say?")
+**Must:** Answer "Largo" without the customer repeating it.
+**Must not:** Ask for the town again.
+**Result:** PASS
