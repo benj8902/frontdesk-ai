@@ -1,5 +1,7 @@
 # FrontDesk AI
 
+**Live demo:** https://frontdesk-by-ben.vercel.app
+
 An AI front-desk assistant for local service businesses. It answers customer questions from the business's own information, collects job details, and gets the lead to the owner without ever making up a price.
 
 > **Status:** in active development (started Nov 2026). This README doubles as the spec. Items marked *(planned)* aren't built yet.
