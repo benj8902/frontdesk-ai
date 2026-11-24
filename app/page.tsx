@@ -51,7 +51,7 @@ export default function Home() {
   }
 
   return (
-    <main className="mx-auto flex h-screen max-w-xl flex-col p-4">
+    <main className="mx-auto flex h-dvh max-w-xl flex-col p-4">
       <h1 className="text-2xl font-semibold">Sunshine Pressure Washing</h1>
 
       <div className="flex-1 space-y-3 overflow-y-auto py-4">
@@ -86,7 +86,7 @@ export default function Home() {
           onChange={(e) => setInput(e.target.value)}
           maxLength={500}
           placeholder="Type your question…"
-          className="flex-1 rounded border px-3 py-2"
+          className="flex-1 rounded border px-3 py-2 text-base"
         />
         <button
           disabled={loading || !input.trim()}
