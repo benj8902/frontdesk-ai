@@ -46,7 +46,7 @@ Next.js + TypeScript · Claude API (Anthropic TypeScript SDK) · Supabase (Postg
 - [x] Project setup and first Claude API call
 - [x] Chat endpoint that answers from a sample business
 - [x] Conversation history
-- [ ] First deployment on Vercel
+- [x] First deployment on Vercel
 - [ ] Lead capture with tool use, plus an owner email alert
 - [ ] Eval suite and Playwright E2E tests running in CI
 - [ ] Owner login, dashboard, and row-level security
